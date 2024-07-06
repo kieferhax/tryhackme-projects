@@ -258,3 +258,30 @@ else
   echo "They are not equal"
 fi
 ```
+
+As we can see it works!
+
+Feel free to play around with these and try making different combinations using different operators.
+
+Now let's create another script where we will use 2 conditions simultaneously and coming back to a concept we learnt in the first lesson.
+
+Let's begin!
+
+We want to make a script that we will perform on a file given by a **parameter**.
+
+We then check if it exists and if it has **write** permissions. If it has write permissions then we echo "**hello**" to it. If it is either non-accessible or doesn't exist we will create the file and echo "hello" to it.  Let's begin!
+
+```
+#!/bin/bash
+
+filename=$1
+
+if [ -f "$filename" ] && [ -w "$filename" ]
+then
+  echo "hello" > $filename
+else
+  touch "$filename"
+  echo "hello" > $filename
+fi
+```
+

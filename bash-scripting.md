@@ -52,3 +52,36 @@ To run a bash script we must first give it executable permissions.
 
 And then we run it using `./`
 
+## Variables
+Variables in bash are fairly simple and we can create them like so:
+
+```
+#!/bin/bash
+
+name="Jammy"
+```
+
+Where we give the value of `Jammy` and assign it to the variable `name`.
+
+Please note that for variables to work you cannot leave a space between the variable name, the "=" and the value. They cannot have spaces between them.
+
+So how would we now use our variables? Well its also very simple.
+
+We have to add a `$` onto the front of our variable name in order to call it.
+
+```
+#!/bin/bash
+
+name="Jammy"
+echo $name
+```
+
+If we test this out in our terminal we get something like this:
+
+`$ name="Jammy"`
+`$ echo $name`
+`Jammy`
+
+This would output "**Jammy**" to the screen.
+
+Variables make it much easier to store data and rather than typing out the same thing in multiple places we could simply insert our variables with $var and then declare that to a certain value making it easier to fall back on if you do something wrong and need to change it.

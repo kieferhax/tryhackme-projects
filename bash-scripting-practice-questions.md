@@ -44,3 +44,8 @@ Answer the following questions and use this piece of code to guide you:
 
 - hello aloha
 
+11) What would be the command to print audi to the screen using indexing?
+
+- echo "${cars[1]}"
+
+12) 

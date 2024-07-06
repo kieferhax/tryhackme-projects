@@ -1,4 +1,5 @@
 #!/bin/bash
 
-name=$1
-echo $name
+echo Enter your name
+read name
+echo "Your name is $name"

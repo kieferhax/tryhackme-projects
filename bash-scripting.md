@@ -103,3 +103,29 @@ echo $name
 We can run our script with `./example.sh Alex`
 
 And sure enough we get returned with "Alex"
+
+So what if we wanted the 2nd argument? Wel the process is very simple and we simply add a `$2` instead of `name=1$`.
+
+Then we run with `./example.sh Alex Tony`
+
+What do you think the terminal would return?
+
+It would return "Tony"
+
+What if we didn't want to supply them like this however, and instead it would let us type in our name in a more interactive way, we can do this using `read`
+
+```
+#!/bin/bash
+
+echo Enter your name
+read name
+echo "Your name is $name"
+```
+
+This code will hang after its ran, this gives you the opportunity to type in your name.
+
+And we can see that is worked!
+
+Maybe try making a little biography maker, where you take the name, age, and job as parameters. Store them inside a variable and then output them to the screen inside a sentence.
+
+However there is so much more that you can do with parameters and I advice you to play around with them, after all practice is what makes you better.

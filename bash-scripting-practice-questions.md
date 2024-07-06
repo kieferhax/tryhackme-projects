@@ -48,4 +48,11 @@ Answer the following questions and use this piece of code to guide you:
 
 - echo "${cars[1]}"
 
-12) 
+
+12) car=('honda', 'audi', 'bmw', 'tesla') If we wanted t remove tesla from the array how would we do so?
+
+- unset cars[3]
+
+13) How could we insert a new value called toyota to replace tesla?
+
+- cars[3]='toyota'

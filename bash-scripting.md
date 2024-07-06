@@ -196,3 +196,65 @@ Given the array please answer the following questions
 
 `cars=('honda', 'audi', 'bmw', 'tesla')`
 
+## Conditionals
+When we talk about conditionals it means that a certain piece of code relies on a condition being met, this is often determined with relational operators, such as equal to, greater than, and less than.
+
+We will make a simple "if" statement to check if a variable is equal to a value, we will also make a script that checks if a file exists and that it is writeable, if it is we will write a message to that file, if not writeable it will delete it and make a new one. A lot of new things will be taught here so pay attention.
+
+First, we will discuss the basic syntax of an if statement.
+
+All if statements look like so:
+
+```
+#!/bin/bash
+
+if [some condition]
+then
+  do something
+else
+  do something different
+fi
+```
+Let's look at an example:
+
+```
+#!/bin/bash
+
+const=10
+if [$count -eq 10]
+then
+  echo "true"
+else
+  echo "false"
+fi
+```
+
+If statements always use a pair of brackets and in the case of the [] we need to leave space on both sides of the text (the bash syntax). We also always need to end the if statement with `fi`.
+
+Here a variable is being declared as 10 and in the top line of the if statement the variable $count is being compared to the integer 10.
+
+If they are equal then it outputs **true**, if its false it outputs **false**. As we know 10 is equal to 10 so it outputs true.
+
+the **-eq** is one way of doing this, you could also use **"="**
+
+| Operator | Description                                                                                                                          |
+| -eq      | Checks if the value of two operands are equal or not; if yes, then the condition becomes true.                                       |
+| -ne      | Checks if the value of two operands are equal or not; if values are not equal, then the condition becomes true.                      |
+| -gt      | Checks if the value of left operand is greater than the value of right operand; if yes, then the condition becomes true.             | 
+| -lt      | Checks if the value of left operand is less than the value of right operand; if yes, then the condition becomes true.                |
+| -ge      | Checks if the value of left operand is greater than or equal to the value of right operand; if yes, then the condition becomes true. |
+
+So now let's use this to make a little script that compares an input (a parameter) and check it against a value to check if it's true or not. A guessing game if you will.
+
+```
+#!/bin/bash
+
+value="guessme"
+guess=$1
+if [ "$value = "$guess" ]
+  then
+echo "The are equal"
+else
+  echo "They are not equal"
+fi
+```

@@ -294,4 +294,13 @@ To finish off our little project from the previous task. You can build on your s
 
 Feel free to add anything you like and make it as complicated as you wish and good luck with your project.
 
-## Conditionals
+## Further Reading
+
+Hi there and thank you so much for completing this room on bash scripting!  I want to congratulate you on persevering when things got tough and completing this room.
+
+If you want to further extend your knowledge of bash or coding in general I really suggest the following websites:
+
+[Code Wars](https://www.codewars.com/)
+[Hacker Rank](https://www.hackerrank.com/)
+
+Thanks again and good luck on your bash journey!

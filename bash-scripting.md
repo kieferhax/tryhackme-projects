@@ -284,4 +284,12 @@ else
   echo "hello" > $filename
 fi
 ```
+And we can see that it worked!
 
+The **-f** checked if the file existed.
+
+The **-w** checked if the file was writable, without write permissions we wouldn't be able to output our text into the file.
+
+To finish off our little project from the previous task. You can build on your script using an if/else statement. Test to see if the age is under 18, if it is then echo out their name with "You are not eligible for work" or something along those lines, if they are over 18 then ask them for their job, you can do this with `read`.
+
+Feel free to add anything you like and make it as complicated as you wish and good luck with your project.

@@ -85,3 +85,21 @@ If we test this out in our terminal we get something like this:
 This would output "**Jammy**" to the screen.
 
 Variables make it much easier to store data and rather than typing out the same thing in multiple places we could simply insert our variables with $var and then declare that to a certain value making it easier to fall back on if you do something wrong and need to change it.
+
+## Parameters
+We will now look at one of the main features of bash and that is using parameters.
+
+We will first look at parameters specified using the command line when running the file. These come in many forms but often have the "$" prefix because a parameter is still a variable.
+
+Lets start by declaring a parameter that is going to be our first argument when running our bash script.
+
+```
+#!/bin/bash
+
+name=$1
+echo $name
+```
+
+We can run our script with `./example.sh Alex`
+
+And sure enough we get returned with "Alex"

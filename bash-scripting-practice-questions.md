@@ -56,3 +56,11 @@ Answer the following questions and use this piece of code to guide you:
 13) How could we insert a new value called toyota to replace tesla?
 
 - cars[3]='toyota'
+
+14) What is the flag to check if we have read access to a file?
+
+- -r
+
+15) What is the flag to check to see if it's a directory?
+
+- -d

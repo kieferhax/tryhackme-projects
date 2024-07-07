@@ -13,12 +13,16 @@ Lets download the Task File and take a look.
 
 Hmmm... It's just a screenshot of a WindowsXP desktop... Or is it???
 
-### Question 1 - What is this user's avatar?
+If we click the 'Hint' button next to question 1 a pop-up windows states: "exiftool is your friend. Who is the author of the image? Do they have any social media accounts?"
+
+Lets install exiftool and run it against the task file.
+
 ![Running exiftool against task file](https://github.com/kieferhax/tryhackme-projects/blob/main/OhSINT/assets/exiftool1.png?raw=true)
 
+## Question 1 - What is this user's avatar?
 ![Owoodflint Google search results](https://github.com/kieferhax/tryhackme-projects/blob/main/OhSINT/assets/owoodflint-search.png?raw=true)
 
-### Question 2 - What city is this person in?
+## Question 2 - What city is this person in?
 ![Wigle.net BSSID search results](https://github.com/kieferhax/tryhackme-projects/blob/main/OhSINT/assets/bssid-wigledotnet.png?raw=true)
 
-### Question 3 - What is the SSID of the WAP he connected to?
+## Question 3 - What is the SSID of the WAP he connected to?

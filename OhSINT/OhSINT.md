@@ -3,6 +3,12 @@ Are you able to use open source intelligence to solve this challenge?
 [OhSINT](https://tryhackme.com/r/room/ohsint)
 
 ## Task 1 - OhSINT
+What information can you possibly get with just one photo?
+
+*Note: This challenege was updated on 2024-02-01. If you are following any older walkthroughs, expect a small change*
+
+Lets download the Task File and take a look.
+
 ![Downloaded Task File](https://github.com/kieferhax/tryhackme-projects/blob/main/OhSINT/assets/WindowsXP_1551719014755.jpg?raw=true)
 
 ### Question 1 - What is this user's avatar?

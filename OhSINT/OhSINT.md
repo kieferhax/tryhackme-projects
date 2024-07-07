@@ -31,9 +31,12 @@ Wow! We got a few interesting results from our Google search! We found the follo
 - GitHub repo - people_finder
 - Wordpress blog
 
+Lets take a closer look at everything and see what else we can find!
+
+
+
 ## Question 1 - What is this user's avatar?
 
 ## Question 2 - What city is this person in?
-![Wigle.net BSSID search results](https://github.com/kieferhax/tryhackme-projects/blob/main/OhSINT/assets/bssid-wigledotnet.png?raw=true)
 
 ## Question 3 - What is the SSID of the WAP he connected to?

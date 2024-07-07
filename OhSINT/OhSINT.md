@@ -30,3 +30,7 @@ What information can you possibly get with just 1 photo?
 *Let's investigate further and Google "OWoodflint."*
 
 ![Owoodflint Google search results](https://github.com/kieferhax/tryhackme-projects/blob/main/OhSINT/assets/owoodflint-search.png?raw=true)
+
+*We can see a cat picture as the avatar for the first return search result.*
+
+*Let's try out 'cat' for our answer to question 1.*

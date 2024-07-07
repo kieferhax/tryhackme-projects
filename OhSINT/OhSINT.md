@@ -3,41 +3,14 @@ Are you able to use open source intelligence to solve this challenge?
 [OhSINT](https://tryhackme.com/r/room/ohsint)
 
 ## Task 1 - OhSINT
-What information can you possibly get with just 1 photo?
-
-*Let's download the task file and take a look*
-
 ![Downloaded Task File](https://github.com/kieferhax/tryhackme-projects/blob/main/OhSINT/assets/WindowsXP_1551719014755.jpg?raw=true)
 
-*Hmmmm... It's just a screen shot of a WindowsXP desktop... Or is it???*
-
 ### Question 1 - What is this user's avatar?
-
-##### Question Hint - exiftool is your friend.  Who is the author of the image? Do they have social media accounts?
-
-*Let's download and install Exiftool to our machine*<br>
-
-*Once exiftool has completed installation, verify via terminal by typing `exiftool`*<br>
-
-*Let's analyze the task file .jpg file we downloaded using exiftool*<br>
-
-`exiftool WindowsXP_1551719014755.jpg`
-
 ![Running exiftool against task file](https://github.com/kieferhax/tryhackme-projects/blob/main/OhSINT/assets/exiftool1.png?raw=true)
-
-*If we take a look at the exiftool output we notice a field called "copyright" with a value of "OWoodflint."*
-
-*Let's investigate further and Google "OWoodflint."*
 
 ![Owoodflint Google search results](https://github.com/kieferhax/tryhackme-projects/blob/main/OhSINT/assets/owoodflint-search.png?raw=true)
 
-*We can see a cat picture as the avatar for the first return search result.*
-
 ### Question 2 - What city is this person in?
-*If we examine the X/Tiwtter account further, we notice that there is a post that includes a BSSID.*
-
-*Additionally, there is a hint for Question 2 which states, 'BSSID + Wigle.net'*
-
-*Let's investigate further and copy the BSSID and visit Wigle.net*
-
 ![Wigle.net BSSID search results](https://github.com/kieferhax/tryhackme-projects/blob/main/OhSINT/assets/bssid-wigledotnet.png?raw=true)
+
+### Question 3 - What is the SSID of the WAP he connected to?

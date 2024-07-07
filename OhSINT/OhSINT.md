@@ -11,6 +11,8 @@ Lets download the Task File and take a look.
 
 ![Downloaded Task File](https://github.com/kieferhax/tryhackme-projects/blob/main/OhSINT/assets/WindowsXP_1551719014755.jpg?raw=true)
 
+Hmmm... It's just a screenshot of a WindowsXP desktop... Or is it???
+
 ### Question 1 - What is this user's avatar?
 ![Running exiftool against task file](https://github.com/kieferhax/tryhackme-projects/blob/main/OhSINT/assets/exiftool1.png?raw=true)
 

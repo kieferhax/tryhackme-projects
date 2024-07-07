@@ -19,6 +19,10 @@ Lets install exiftool and run it against the task file.
 
 ![Running exiftool against task file](https://github.com/kieferhax/tryhackme-projects/blob/main/OhSINT/assets/exiftool1.png?raw=true)
 
+We see the copyright belongs to an "Owoodflint."
+
+Lets Google "Owoodflint" and see what we can find!
+
 ## Question 1 - What is this user's avatar?
 ![Owoodflint Google search results](https://github.com/kieferhax/tryhackme-projects/blob/main/OhSINT/assets/owoodflint-search.png?raw=true)
 

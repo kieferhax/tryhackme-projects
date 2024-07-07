@@ -33,10 +33,16 @@ Wow! We got a few interesting results from our Google search! We found the follo
 
 Lets take a closer look at everything and see what else we can find!
 
-
-
 ## Question 1 - What is this user's avatar?
 
 ## Question 2 - What city is this person in?
 
 ## Question 3 - What is the SSID of the WAP he connected to?
+
+## Question 4 - What is his personal email address?
+
+## Question 5 - What site did you find his email address?
+
+## Question 6 - Where has he gone on holiday?
+
+## Question 7 - What is the person's password?

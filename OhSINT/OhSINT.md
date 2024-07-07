@@ -23,8 +23,17 @@ We see the copyright belongs to an "Owoodflint."
 
 Lets Google "Owoodflint" and see what we can find!
 
-## Question 1 - What is this user's avatar?
 ![Owoodflint Google search results](https://github.com/kieferhax/tryhackme-projects/blob/main/OhSINT/assets/owoodflint-search.png?raw=true)
+
+Wow! We got a few interesting results from our Google search!
+
+We found:
+- X/Twitter account
+- GitHub account
+- GitHub repo - people_finder
+- Wordpress blog
+
+## Question 1 - What is this user's avatar?
 
 ## Question 2 - What city is this person in?
 ![Wigle.net BSSID search results](https://github.com/kieferhax/tryhackme-projects/blob/main/OhSINT/assets/bssid-wigledotnet.png?raw=true)

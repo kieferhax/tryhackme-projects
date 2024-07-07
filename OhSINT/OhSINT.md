@@ -33,4 +33,6 @@ What information can you possibly get with just 1 photo?
 
 *We can see a cat picture as the avatar for the first return search result.*
 
-*Let's try out 'cat' for our answer to question 1.*
+### Question 2 - What city is this person in?
+*If we look back at the exiftool results, we see the 'GPS position' field.  Let's take the value and do another Google search.*
+

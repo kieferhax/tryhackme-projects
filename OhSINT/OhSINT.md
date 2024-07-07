@@ -17,4 +17,4 @@ What information can you possibly get with just 1 photo?
 
 `exiftool WindowsXP_1551719014755.jpg`
 
-![Running exiftool against task file](/Users/kiefer.land/coding-projects/tryhackme-projects/OhSINT/assets/exiftool1.png)
+![Running exiftool against task file](tryhackme-projects/OhSINT/assets/exiftool1.png)

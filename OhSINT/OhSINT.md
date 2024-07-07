@@ -33,6 +33,8 @@ Wow! We got a few interesting results from our Google search! We found the follo
 
 Lets take a closer look at everything and see what else we can find!
 
+
+
 ## Question 1 - What is this user's avatar?
 
 ## Question 2 - What city is this person in?

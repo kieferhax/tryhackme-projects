@@ -50,15 +50,21 @@ Wow! We've discovered a lot of open source information out there in the wild wil
 Let's see if we can answer some of these questions now!
 
 ## Question 1 - What is this user's avatar?
+Cat
 
 ## Question 2 - What city is this person in?
+London
 
 ## Question 3 - What is the SSID of the WAP he connected to?
+Unileverwifi
 
 ## Question 4 - What is his personal email address?
+owoodflint@gmail.com
 
 ## Question 5 - What site did you find his email address?
+Github
 
 ## Question 6 - Where has he gone on holiday?
+New York
 
 ## Question 7 - What is the person's password?

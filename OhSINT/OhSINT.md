@@ -25,3 +25,7 @@ What information can you possibly get with just 1 photo?
 
 ![Running exiftool against task file](https://github.com/kieferhax/tryhackme-projects/blob/main/OhSINT/assets/exiftool1.png?raw=true)
 
+*If we take a look at the exiftool output we notice a field called "copyright" with a value of "OWoodflint."*
+
+*Let's investigate further and Google "OWoodflint."*
+

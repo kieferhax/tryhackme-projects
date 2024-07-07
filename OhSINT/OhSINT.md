@@ -45,6 +45,10 @@ Lets take a closer look at everything and see what else we can find!
 ### Wordpress blog
 ![Wordpress blog](https://github.com/kieferhax/tryhackme-projects/blob/main/OhSINT/assets/wordpress.png)
 
+Wow! We've discovered a lot of open source information out there in the wild wild west of the world wide web.
+
+Let's see if we can answer some of these questions now!
+
 ## Question 1 - What is this user's avatar?
 
 ## Question 2 - What city is this person in?

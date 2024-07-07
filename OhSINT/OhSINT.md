@@ -33,7 +33,17 @@ Wow! We got a few interesting results from our Google search! We found the follo
 
 Lets take a closer look at everything and see what else we can find!
 
+### X/Twitter account
+![Twitter account](https://github.com/kieferhax/tryhackme-projects/blob/main/OhSINT/assets/twitter.png?raw=true)
 
+### GitHub account
+![GitHub account](https://github.com/kieferhax/tryhackme-projects/blob/main/OhSINT/assets/github-profile.png)
+
+### GitHub repo
+![GitHub repo](https://github.com/kieferhax/tryhackme-projects/blob/main/OhSINT/assets/github-repo.png)
+
+### Wordpress blog
+![Wordpress blog](https://github.com/kieferhax/tryhackme-projects/blob/main/OhSINT/assets/wordpress.png)
 
 ## Question 1 - What is this user's avatar?
 

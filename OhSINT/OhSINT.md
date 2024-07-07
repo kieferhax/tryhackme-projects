@@ -34,5 +34,9 @@ What information can you possibly get with just 1 photo?
 *We can see a cat picture as the avatar for the first return search result.*
 
 ### Question 2 - What city is this person in?
-*If we look back at the exiftool results, we see the 'GPS position' field.  Let's take the value and do another Google search.*
+*If we examine the X/Tiwtter account further, we notice that there is a post that includes a BSSID.*
+
+*Additionally, there is a hint for Question 2 which states, 'BSSID + Wigle.net'*
+
+*Let's investigate further and copy the BSSID and visit Wigle.net*
 

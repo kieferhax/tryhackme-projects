@@ -70,7 +70,9 @@ The address returned for the BSSID search is `15 Charles II Street, London, GB, 
 ![Wigle.net BSSID search results](https://github.com/kieferhax/tryhackme-projects/blob/main/OhSINT/assets/wigle-dot-net.png?raw=true)
 
 ## Question 3 - What is the SSID of the WAP he connected to?
-Unileverwifi
+Looking at the Wigle.net BSSID query results we see the WAP's SSID.
+
+**Answer - UnileverWiFi**
 
 ## Question 4 - What is his personal email address?
 owoodflint@gmail.com

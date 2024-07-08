@@ -50,10 +50,24 @@ Wow! We've discovered a lot of open source information out there in the wild wil
 Let's see if we can answer some of these questions now!
 
 ## Question 1 - What is this user's avatar?
-Cat
+Looking back at the Twitter account we see an avatar of a cat.
+
+**Answer - Cat**
 
 ## Question 2 - What city is this person in?
-London
+Looking at the Twitter account again, we see the location is set to 'Space' however this does not work. 
+
+Lets take a look at the hint.  The hint mentions "BSSID + Wigle.net"
+
+Taking a closer look at Owoodflint's Twitter posts reveals some interesting information, specifically a BSSID `B4:5D:50:AA:86:41`
+
+Let surf on over to Wigle.net and see what we can find with this BSSID.
+
+The address returned for the BSSID search is `15 Charles II Street, London, GB, SW1Y4QU`
+
+**Answer - London**
+
+
 
 ## Question 3 - What is the SSID of the WAP he connected to?
 Unileverwifi

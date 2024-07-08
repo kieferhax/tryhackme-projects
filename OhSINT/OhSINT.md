@@ -93,3 +93,7 @@ After viewing the page source of Owoodflint's blog I was able to discover creden
 Realizing that the credentials are displayed on the webpage I pressed CMD+A (CTRL+A for Windows) to select all and wouldn't you know who won the pony?
 
 **Answer - pennYDr0pper.!**
+
+![View page source](https://github.com/kieferhax/tryhackme-projects/blob/main/OhSINT/assets/view-page-source.png?raw=true)
+
+![Select all](https://github.com/kieferhax/tryhackme-projects/blob/main/OhSINT/assets/select-all.png?raw=true)

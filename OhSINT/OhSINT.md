@@ -5,7 +5,7 @@ Are you able to use open source intelligence to solve this challenge?
 ## Task 1 - OhSINT
 What information can you possibly get with just one photo?
 
-*Note: This challenege was updated on 2024-02-01. If you are following any older walkthroughs, expect a small change*
+*Note: This challenge was updated on 2024-02-01. If you are following any older walkthroughs, expect a small change*
 
 Lets download the Task File and take a look.
 
@@ -75,12 +75,21 @@ Looking at the Wigle.net BSSID query results we see the WAP's SSID.
 **Answer - UnileverWiFi**
 
 ## Question 4 - What is his personal email address?
-owoodflint@gmail.com
+We can locate Owoodflint's personal email address listed in the `people_finder` repo on his GitHub.
+
+**Answer - owoodflint@gmail.com**
 
 ## Question 5 - What site did you find his email address?
-Github
+**Answer - Github**
 
 ## Question 6 - Where has he gone on holiday?
-New York
+Owoodflint's blog reveals his current location on holiday.
+
+**Answer - New York**
 
 ## Question 7 - What is the person's password?
+After viewing the page source of Owoodflint's blog I was able to discover credentials located on line 270 that are apparently visible but the text color is white which I definitely didn't notice at first glance.
+
+Realizing that the credentials are displayed on the webpage I pressed CMD+A (CTRL+A for Windows) to select all and wouldn't you know who won the pony?
+
+**Answer - pennYDr0pper.!**

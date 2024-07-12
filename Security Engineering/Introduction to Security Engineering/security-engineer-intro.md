@@ -29,7 +29,9 @@ Keeping in view the above-mentioned need for security, organizations hire securi
 - Collaborates and coordinates with other teams to establish security protocols across the organization.
 
 ### Qualification Required for a Security Engineer
-As you might have noticed, the security engineer role mentioned above is very broad and might require a whole department instead of a single person. This is because this role is defined loosely and varies from organization to organization. An engineer takes large problems, breaks them down into smaller chunks, and then solves them. Therefore a security engineer is someone that follows this process for security problems. Meaning that even though you might have a job description, each day might be quite different since you are faced with various problems. Overall, when hiring a security engineer, organizations look for the following basic requirements:
+As you might have noticed, the security engineer role mentioned above is very broad and might require a whole department instead of a single person. This is because this role is defined loosely and varies from organization to organization. An engineer takes large problems, breaks them down into smaller chunks, and then solves them. 
+
+Therefore a security engineer is someone that follows this process for security problems. Meaning that even though you might have a job description, each day might be quite different since you are faced with various problems. Overall, when hiring a security engineer, organizations look for the following basic requirements:
 
 - 0-2 years of experience with IT administration, helpdesk, networks, or security operations.
 - Basic understanding of computer networks, operating systems, and programming.
@@ -105,3 +107,41 @@ A significant part of a security engineer's duties includes ensuring compliance 
 Depending on the industry, clientele, and location of the organization, it might be subject to various compliance standards such as PCI-DSS, HIPAA, SOC2, ISO27001, NIST-800-53, and more. A security engineer works closely with both internal and external auditors to detect any non-compliance issues and effectively address them. 
 
 Additionally, they are responsible for upholding the organization's security certifications as needed.
+
+### Question 5
+**What is considered the weakest link in an organization's security?**
+*Answer:* Humans
+
+### Question 6
+**An organization's security evolves with the organization. What helps a security engineer keep the organization secure through these changes?**
+*Answer:* Change Management
+
+## Additional Roles and Responsibilities
+As discussed previously, the security engineer's role is often loosely defined and broad-based. In certain organizations, a security engineer might need to take up some additional responsibilities to help other teams, which we will cover in this task.
+
+### Managing Security Tooling
+A security engineer might sometimes be required to configure or fine-tune security tools such as SIEMs, Firewalls, WAFs, EDRs, and more. In some organizations, that might also be the primary responsibility of a security engineer. 
+
+In such a role, a security engineer might also be making decisions or providing input to decision-makers about tools to procure based on the organization's requirements and the engineer's assessments of competitive tools.
+
+### Tabletop Exercises
+Tabletop exercises are often conducted to gauge the operational readiness of an organization from a security point of view. Certain scenarios are identified to be exercised, and security team members must explain their respective roles in the scenarios under discussion. 
+
+For example, a scenario might include the compromise of an endpoint device through a phishing email. All the team members will then explain their respective steps per the organization's playbooks. The security engineer is sometimes required to conduct these exercises.
+
+### Disaster Recovery and Crisis Management
+A robust security posture requires organizations to plan for unintended incidents, disasters, or crises. In any such scenario, the top priority of the executive management is to maintain business continuity. 
+
+A security engineer might be involved in disaster recovery, business continuity, and crisis management planning as part of the different compliance frameworks and the organization's internal policies. 
+
+The role of a security engineer in these areas might differ depending on the organization.
+
+### Question 7
+**What is a theoretical exercise carried out to gauge the operational readiness of an organization from a security point of view?**
+*Answer:* Tabletop Exercise
+
+### Question 8
+**What is the priority of the management in case of a disaster or crisis?**
+*Answer:* Business Continuity
+
+## Walking in Their Shoes

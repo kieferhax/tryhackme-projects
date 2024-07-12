@@ -72,3 +72,13 @@ To mitigate risks from a continuously evolving threat landscape, a security engi
 **What philosophy, if followed, provides the most Return on Investment (ROI)?**
 *Answer:* Secure by Design
 
+## Continuous Improvement
+An organization's security is not a one-time job but a continuous effort. Similarly, the security engineer's job doesn't end once policies are designed and implemented. Rather, it is a journey towards continuous improvement. The following steps help a security engineer carry out this role.
+
+### Ensuring Awareness
+
+
+### Managing Risk
+
+
+### Change Management

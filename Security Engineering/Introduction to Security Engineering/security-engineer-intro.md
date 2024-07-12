@@ -76,9 +76,32 @@ To mitigate risks from a continuously evolving threat landscape, a security engi
 An organization's security is not a one-time job but a continuous effort. Similarly, the security engineer's job doesn't end once policies are designed and implemented. Rather, it is a journey towards continuous improvement. The following steps help a security engineer carry out this role.
 
 ### Ensuring Awareness
-
+A security engineer might be tasked with maintaining a certain security awareness level in the organization. Humans are the building blocks of any organization, and as is often said, humans are the weakest link in an organization's security. A security engineer periodically runs awareness sessions targeting primarily social engineering attacks to ensure that humans don't make mistakes that can compromise an organization's security. Awareness sessions are also organized for specific teams to ensure they follow security principles related to their area of expertise, like secure software development or secure network architecture.
 
 ### Managing Risk
+The executive management of most organizations looks at security from the lens of minimizing risks. Security is essential to businesses because ignoring it can result in operational disruptions, data leakage, lawsuits, or other forms of risk. Therefore, a security engineer is often tasked with identifying security risks, determining their likelihood and impact, and finding solutions to minimize those risks. It must be noted that eliminating all risks might not be possible when running business operations. 
 
+Sometimes, a decision has to be made to accept a risk and move on. In such a scenario, the security engineer might perform some mitigating actions to lower the risk. Accepting or mitigating risks is often a business decision, and a security engineer acts as a trusted advisor of the management that helps them take this decision by providing subject matter expertise. 
+
+Let's take the example of an organization that uses a database software for its supply chain that runs on a vulnerable version of Linux. 
+
+This software is essential to the organization's operations. Updating the software, so that it can run on the latest OS version that is not vulnerable, without impacting operations might take significant effort (more than a year). It will require engagement with the vendor, who has not yet tested the software on the latest OS version. Deploying the software without testing on the latest OS version will risk causing problems in the organization's operations. 
+
+In such a scenario, the vulnerable OS version poses a security risk. A security engineer might suggest mitigating the risk by hardening the OS through additional controls and adding a reverse proxy in front of the vulnerable system to avoid exposing it to the internet. While these steps will not eliminate the risk, they will significantly reduce it without affecting the organization's operations.
 
 ### Change Management
+Organizations keep evolving with time, which also results in changes in their security posture. To ensure a robust security posture, the security engineer keeps track of changes in the organization's digital assets that can affect the security posture and takes measures to improve the security posture with the organization's evolution. 
+
+Let's assume an organization wants to upgrade the e-commerce module of its website for its corporate customers. The new module will require a risk assessment, penetration testing, and vulnerability assessment before integrating with the website. The security engineer will ensure that all these requirements are fulfilled and that the integration will not introduce security vulnerabilities. 
+
+Furthermore, it will also be ensured that the new module follows all the security policies and guidelines laid out by the organization.
+
+### Vulnerability Management
+The threat landscape is continuously evolving. New software versions are released, and vulnerabilities are found in the older versions. The security engineer's job often includes monitoring vulnerabilities across the organization and planning to patch or minimize their risk.
+
+### Compliance and Audits
+A significant part of a security engineer's duties includes ensuring compliance with regulatory and organizational requirements. 
+
+Depending on the industry, clientele, and location of the organization, it might be subject to various compliance standards such as PCI-DSS, HIPAA, SOC2, ISO27001, NIST-800-53, and more. A security engineer works closely with both internal and external auditors to detect any non-compliance issues and effectively address them. 
+
+Additionally, they are responsible for upholding the organization's security certifications as needed.

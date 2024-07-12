@@ -18,3 +18,4 @@ In responding to these threats, organizations can either go back to the old ways
 
 Hence, just like any organization will protect its physical assets and dedicate whole departments to them, a company's digital assets must also be secured.  It must be noted here that organizations do all of this to ensure their primary goal is achieved without hinderance.
 
+### The Role of a Security Engineer

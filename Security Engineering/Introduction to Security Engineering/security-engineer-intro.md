@@ -47,8 +47,6 @@ One of the primary steps in ensuring an organization's security is to maintain a
 
 They must also ensure that this asset inventory is regularly maintained and updated and includes all the required information about assets such as asset name, type, IP address, physical location, place in the network, applications running on the asset, access permissions (only within the organization or public-facing), and the asset owner details.
 
-![Security Engineering](https://tryhackme-images.s3.amazonaws.com/user-uploads/61306d87a330ed00419e22e7/room-content/28f1276e16598eb550db01ebf0abed64.png)
-
 ### Security Policies
 An organization needs robust security policies to maintain a sound security posture. A security engineer helps the organization create security policies based on established Security Principles. These policies are then implemented organization-wide, and the security engineer ensures that the implementation follows the letter and spirit of the policies.
 

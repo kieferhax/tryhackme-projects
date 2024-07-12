@@ -145,3 +145,18 @@ The role of a security engineer in these areas might differ depending on the org
 *Answer:* Business Continuity
 
 ## Walking in Their Shoes
+While performing their duties, security engineers must consider various aspects of running a business apart from keeping it secure. These considerations may include business operations, cost, ease of implementation, ease of use, and more. 
+
+Although the most secure system is the one that is shut off and disconnected from power, such a system doesn't achieve any business objectives. Hence, a security engineer must consider business objectives and security when making decisions.
+
+### Question 9
+**What is the flag shown on the completion of the static site?**
+*Answer:* THM{S3CUR1TY_3NG1N33R5_R0CK}
+
+## Conclusion
+That was a brief introduction to the day-to-day activities of a security engineer. To conclude, we learned that a security engineer:
+
+- Owns the responsibility of an organization's cyber security.
+- Ensures that the systems and infrastructure of an organization are built securely.
+- Helps maintain this security posture through continuous improvement and changes in the organization's digital assets.
+- Takes on additional roles and responsibilities to help other teams achieve the collective goal of a secure organization.
